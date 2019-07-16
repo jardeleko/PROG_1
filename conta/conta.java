@@ -1,4 +1,3 @@
-
 public class conta{
 	String nome;
 	int numero;
